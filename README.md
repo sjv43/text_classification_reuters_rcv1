@@ -1,0 +1,2 @@
+# reuters_rcv1
+A function to select single-labelled data points in the RCV1 dataset using Python
